@@ -33,14 +33,14 @@ header nav a{
 
 /* pagina interna partecipanti */
 
-section{
+main{
     width: 100vw;
     height: calc(100vh - 160px);
     background-color: #000;
     overflow-y: auto;
 }
 
-section div{
+main div{
     width: 90vw;
     margin: auto;
     padding-top: 10px;
